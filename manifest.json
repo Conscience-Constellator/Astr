@@ -1,0 +1,8 @@
+{
+  "project_root": ".",
+  "modules": "CC.Astr",
+  "entry_points": "",
+  "priority": "",
+  "repo_urls": "https://github.com/Conscience-Constellator/Astr",
+  "notes": "No mains"
+}
